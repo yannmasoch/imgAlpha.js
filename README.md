@@ -1,1 +1,1 @@
-# img-alpha
+# imgAlpha.js

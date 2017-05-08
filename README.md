@@ -5,7 +5,6 @@
 ![preview](https://raw.github.com/yannmasoch/imgAlpha.js/master/examples/img/intro.jpg)
 
 Suggestion are more than welcome, not only for feature requests but also for coding style improvements.
-Let's make this a great library to make people's lives easier!
 
 
 ## How it Works

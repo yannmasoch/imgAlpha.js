@@ -18,9 +18,13 @@ Download package and include `jquery.imgAlpha.min.js` in your document after inc
 <script type="text/javascript" src="/path/to/jquery.imgAlpha.min.js"></script>
 ```
 
-#### Bower, NPM and CDN
-*Coming soon!*
+#### NPM
+```sh
+npm install imgalpha.js
+```
 
+#### CDN
+*Coming soon!*
 
 ## Usage
 

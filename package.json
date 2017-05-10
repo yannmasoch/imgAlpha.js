@@ -1,7 +1,7 @@
 {
     "name": "imgalpha.js",
     "title": "imgAlpha.js",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "imgAlpha.js is a jQuery plugin by Yann Masoch to use light-weight transparent images on any website!",
     "keywords": [
         "javascript",

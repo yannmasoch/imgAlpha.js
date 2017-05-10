@@ -1,12 +1,8 @@
 {
-    "name": "imgAlpha.js",
+    "name": "imgalpha.js",
+    "title": "imgAlpha.js",
     "version": "0.1.0",
     "description": "imgAlpha.js is a jQuery plugin by Yann Masoch to use light-weight transparent images on any website!",
-    "main": "dist/jquery.imgAlpha.js",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/yannmasoch/imgAlpha.js.git"
-    },
     "keywords": [
         "javascript",
         "jquery",
@@ -18,19 +14,20 @@
         "rgba",
         "low-weight"
     ],
-    "author": "Yann Masoch <me@yannmasoch.com>",
-    "contributors": [
-        {
-            "name": "Yann Masoch",
-            "email": "me@yannmasoch.com",
-            "url": "http://www.yannmasoch.com"
-        }
-  ],
-    "license": "MIT",
-    "bugs": {
-        "url": "https://https://github.com/yannmasoch/imgAlpha.js/issues"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yannmasoch/imgAlpha.js.git"
     },
+    "bugs": "https://https://github.com/yannmasoch/imgAlpha.js/issues",
+    "main": "dist/jquery.imgAlpha.js",
     "dependencies": {
-        "jquery": ">=1.8.0"
-    }
+        "jquery": "^1.8.0"
+    },
+    "author": {
+        "name": "Yann Masoch",
+        "email": "me@yannmasoch.com",
+        "url": "http://www.yannmasoch.com"
+    },
+    "license": "MIT",
+    "copyright": "2017 Yann Masoch"
 }

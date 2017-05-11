@@ -2,12 +2,19 @@
 
 **imgAlpha.js** is a jQuery plugin by Yann Masoch allowing to use light-weight transparent images on any website.
 
-![preview](https://raw.github.com/yannmasoch/imgAlpha.js/master/examples/img/intro.jpg)
+![preview](examples/img/Intro.jpg)
 
 Suggestion are more than welcome, not only for feature requests but also for coding style improvements.
 
 
 ## How it Works
+**imgAlpha.js** uses 2 compressed images such as jpeg format to build a light-weight transparent image. No more ugly GIF and no more heavy PNG!!
+
+Simply save your image in 2 regular jpeg files:
+1. The color image (by default the background color is a plain white - #FFFFFF)
+2. The alpha image (black is transparent and white is opaque)
+
+![Alpha image](examples/img/How-it-Works.jpg)
 
 ## Installation
 Download package and include `jquery.imgAlpha.min.js` in your document after including jQuery.
